@@ -1,17 +1,16 @@
 ---
 layout: page
 show_meta: false
-title: "Sparse Coding for Efficient Biomedical Signal Processing"
-subheadline: "SCEBIOS"
+#title: "Sparse Coding for Efficient Biomedical Signal Processing"
+title: "Abstract"
+subheadline: "Project SCEBIOS"
 teaser: 
 keywords: SCEBIOS
 tags: [SCEBIOS]
-permalink: /abstract.html
+permalink: /abstract/
 #summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 ---
 
-
-## Abstract
 
 The proposed project aims to develop, implement and validate new algorithms for biomedical signal processing and classification, focusing especially on ECG signals, using methods emerging from the theory of sparse coding.
 

@@ -26,7 +26,8 @@ author: Nicolae Cleju
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'www.etti.tuiasi.ro/phd/ncleju'
+#url: 'www.etti.tuiasi.ro/phd/ncleju'
+url: '/ncleju'
 #baseurl: '/feeling-responsive'
 baseurl: '/scebios'
 
@@ -41,7 +42,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.etti.tuiasi.ro/phd/ncleju/scebios/images/'
+urlimg: 'http://www.etti.tuiasi.ro/ncleju/scebios/images/'
 
 
 # Logo size is 600x80 pixels
@@ -275,3 +276,6 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+    
+# Nic
+storagefolder: '/scebios/storage'

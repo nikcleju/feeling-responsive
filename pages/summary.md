@@ -1,15 +1,16 @@
 ---
 layout: page
 show_meta: false
-title: "Sparse Coding for Efficient Biomedical Signal Processing"
-subheadline: "SCEBIOS"
+#title: "Sparse Coding for Efficient Biomedical Signal Processing"
+title: "Summary"
+subheadline: "Project SCEBIOS"
 teaser:
 keywords: SCEBIOS
 tags: [SCEBIOS]
-permalink: /summary.html
+permalink: /summary/
 ---
 
-## Project Summary
+
 
 | Title: | Sparse Coding for Efficient Biomedical Signal Processing |
 | Acronym: | SCEBIOS|

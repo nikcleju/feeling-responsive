@@ -1,14 +1,13 @@
 ---
 layout: page
 show_meta: false
-title: "Sparse Coding for Efficient Biomedical Signal Processing"
-subheadline: "SCEBIOS"
+#title: "Sparse Coding for Efficient Biomedical Signal Processing"
+title: "Results"
+subheadline: "Project SCEBIOS"
 teaser:
 keywords: SCEBIOS
 tags: [SCEBIOS]
-#sidebar: scebios_sidebar
-permalink: /results.html
-#summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+permalink: /results/
 ---
 
 ## Estimated results
@@ -16,6 +15,6 @@ permalink: /results.html
 - 2 conference papers in international conferences.
 - Technical reports following the completion of each project stage, and a final technical report at project finalization
 
-## Results 2018
+## Results for 2018
 
-- Scientific research report (RO): [download](Raport2018.pdf)
+- Scientific research report (in Romanian): [download]({{site.url}}/{{site.storagefolder}}/Raport2018.pdf)
