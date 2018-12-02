@@ -85,12 +85,14 @@
   #- title: "Roadmap"
     #url: "/roadmap/"
 
-#- title: News
-#  url: "/blog/"
-#  side: left
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
+- title: News
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Latest"
+    url: "/blog/"
+  - title: "Archive"
+    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
