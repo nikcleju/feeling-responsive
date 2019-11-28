@@ -18,15 +18,15 @@ permalink: /results/
 	Proc. 27th European Signal Processing Conference EUSIPCO 2019, 2019, A Coruna, Spain,
 	pp.1-4, ISBN 978-9-0827-9702-2
 	
-	Download it here: [download]({{site.url}}/{{site.storagefolder}}/2019_Paper_IAP.pdf)
+	Download the paper and the accompanying code here: [[paper (.pdf)]]({{site.url}}/{{site.storagefolder}}/2019_Paper_IAP.pdf) [[code]](https://github.com/nikcleju/code_paper_IterativeAffineProjections)
 
-- Paper presented in EUSIPCO 2019 conference: 
+- Paper presented in ISSCS 2019 conference: 
 
 	N. Cleju, I.Ciocoiu, “Fusion of Orthogonal Matching Pursuit and Least Squares Pursuit for
 	Robust Sparse Recovery”, Proc International Symposium on Signals, Circuits and Systems
 	(ISSCS) 2019, Iasi, Romania, 1-4	
 	
-	Download it here: [download]({{site.url}}/{{site.storagefolder}}/2019_Paper_OMPLSP.pdf)
+	Download the paper and the accompanying code here: [[paper (.pdf)]]({{site.url}}/{{site.storagefolder}}/2019_Paper_OMPLSP.pdf) [[code]](https://github.com/nikcleju/code_paper_FusionOMPLSP)
 
 - Scientific research report (in Romanian): [download]({{site.url}}/{{site.storagefolder}}/Raport2019.pdf)
 
